@@ -5,6 +5,18 @@ This runbook ensures that backups are successfully completed, verifiable, and au
 
 _____________________________________________________________________________________________________________________________________________________________
 
+## KPI & Framework Alignment
+
+| Area | Alignment |
+|-----|----------|
+| Key Performance Area (KPA) | Backup & Recovery |
+| Supporting KPIs | Backup success rate, restore test completion |
+| ITIL v4 Practice | IT Service Continuity Management |
+| COBIT 2019 Domain | DSS04 – Manage Continuity |
+| SFIA Skill | ITOP – IT Infrastructure Operations |
+| Evidence Produced | Backup reports, restore test results, audit evidence |
+
+
 Scope
 -----
 Applies to:
