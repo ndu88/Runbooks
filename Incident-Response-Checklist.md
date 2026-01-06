@@ -14,6 +14,18 @@ Purpose
 
 This runbook provides a standardised approach for responding to server-related incidents to minimise downtime, restore services within SLA, and ensure proper escalation and documentation.
 
+## KPI & Framework Alignment
+
+| Area | Alignment |
+|-----|----------|
+| Key Performance Area (KPA) | Incident & Problem Management |
+| Supporting KPIs | % incidents resolved within SLA, MTTR |
+| ITIL v4 Practice | Incident Management |
+| COBIT 2019 Domain | DSS01 – Manage Operations |
+| SFIA Skill | ITOP – IT Infrastructure Operations |
+| Evidence Produced | Incident logs, escalation records, resolution documentation |
+
+
 Scope
 ------
 
