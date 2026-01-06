@@ -7,6 +7,19 @@ Purpose
 This runbook defines the standard process for patching servers to maintain security, stability, and compliance while minimising service disruption.
 _____________________________________________________________________________________________________________________________________________________________
 
+## KPI & Framework Alignment
+
+| Area | Alignment |
+|-----|----------|
+| Key Performance Area (KPA) | Incident & Problem Management |
+| Supporting KPIs | % incidents resolved within SLA, system uptime |
+| ITIL v4 Practice | Incident Management |
+| COBIT 2019 Domain | DSS01 – Manage Operations |
+| SFIA Skill | ITOP – IT Infrastructure Operations |
+| Evidence Produced | Incident tickets, resolution notes, post-incident reviews |
+
+
+
 Scope
 ------
 
